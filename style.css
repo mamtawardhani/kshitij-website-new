@@ -1,0 +1,17 @@
+html,body{
+    background-image:linear-gradient(to right,#803079,#b8c916);
+}
+
+.img1 {
+    display:flex;
+    justify-content: space-between;
+  
+
+}
+
+.des2{
+    position: absolute;
+    top:50%;
+    left:35%;
+    
+}
